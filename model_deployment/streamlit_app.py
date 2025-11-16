@@ -165,6 +165,7 @@ def process_data(input_data, days, profit):
     return input_data, pareto_model
 
 # --- Main App Function ---
+# Author - Devansh Kumar
 def main():
     """Main application function"""
     st.title("Customer Lifetime Value Predictor ")
